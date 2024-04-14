@@ -1,5 +1,9 @@
+# ingenious - IP & Patent NFT Marketplace for DeSci
+
+## Link to ingenious: [Visit ingenious at TAIKAI ETH DAM 2024](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluy915zx00uzz301k2azg0f8/idea)
+
 ### Content of the repo:
-- PDF Presentation of "ingenious" project made for ETH DAM 2024.
+- PDF Presentation of the project.
 - EIP-1155-IPP proposed new functionalities for IP & Patent NFTs.
 - Hackathon created website for example purposes: HTML+CSS+JS code.
 
