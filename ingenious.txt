@@ -1,0 +1,82 @@
+PÁGINA 1: INTRO
+Concepto: página limpia y clara, el "logo" puede ser una "i" que se vea bonita y ya, luego usarla abajo a la derecha en todas las páginas.
+
+
+ingenious
+
+The Venetian Patent Statute of 1474 is considered the earliest codified patent system in the world for "any new and ingenious device (or method), not previously made", provided it was useful.
+
+--------------------------------------------------------------------------------------------------------
+
+PAGINA 2: THE PROBLEM
+Concepto: Poner alguna imagen o gráfica que muestre el problema como máximo ocupando media página.
+
+
+The scientific community in 3rd world countries, mainly in Africa and LATAM, faces huge problems finding and connecting investors interested in scientific research.
+
+As a consecuence, there is also obstacles protecting the IP and/or Patenting the research and Methods.
+
+--------------------------------------------------------------------------------------------------------
+
+PAGINA 3: THE SOLUTION
+Concepto: El texto arriba y abajo los 2 objetos como opciones, con 2 titulos, entendiendo que lo de la izquierda puede dar más rendimiento aparentemente.
+
+Under MIT Licence we have built this full functional first IP & Pantents NFT Marketplace, using our own EIP-1155 variation designed by the DeSci community for the DeSci community, focused on: fraction selling and profit distribution or any tokenized IP and Patent.
+
+Fund Opportunities              Invest in Patents
+
+  PRE-IP NFTs                        IP NFTs
+
+--------------------------------------------------------------------------------------------------------
+
+PÁGINA 4: THE INVESTMENTS
+Concepto: Lo primero es etxto, lo segundo es lo que ganaría un inversor y por otro lado un científico, dejar claro lo de cada uno.
+
+An investor (or a SciDegen) can search for PRE-IP NFTs (not yet patented) to gain value when it gets IP-NFT (patented), what also triggers the NFT mutiplicator by "N" that will allow the investor to resell new portions of the IP.
+
+Investors Income Sources: Resell, Portion Selling, Profit Distribution.
+
+Scientists Income Sources: Mint, Reselling Fees, Uprun form initial auto-allocation.
+
+--------------------------------------------------------------------------------------------------------
+PÁGINA 5: HOW WE DID IT
+Concepto: Irá una imagen ocupando el 50%, lo primero es un título general pero luego usar solo una mitad de la página.
+
+Meet the ERC-1155-IPP (IP & Patent)
+
+The variants from the Standard:
+1. On-Chain Metadata satisfying IP & Patent Schema.
+2. Transfer protection with a low "transfer fee" CAP (e.g. 0.1 ETH).
+3. Tokens amount multiplier for the "PRE-IP" to "IP" token state update.
+4. Profit Auto-Distribution.
+
+--------------------------------------------------------------------------------------------------------
+
+PÁGINA 6: NEXT STEPS
+Concepto: Poner 4 items grandes claros de los siguientes pasos.
+
+What are our next steps?
+
+-Propose the EIP-1155-IPP to the DeSci Community for discussion.
+-Audit the resulting code by experts.
+-Find proyects interested in get into the platform.
+-Enjoy an Easy-to-Use DeSci Marketplace.
+
+--------------------------------------------------------------------------------------------------------
+
+PÁGINA 7: THANK YOU!
+Concepto: Agradecimiento, usar mi imagen de twitter, va primero el texto luego el resto del contenido centrado o como quieras.
+
+
+Thanks for givving us your attention! This is the first step for a long run...
+
+                                Who we are?
+
+    [PICTURE]                                         [PICTURE]
+
+   Pamela Limon                                     ariutokintumi
+DeSci Mexico Founder                           Inventor, Life Hacker :-Y
+
+                    Made with <3 for ETH DAM 2024
+
+--------------------------------------------------------------------------------------------------------
