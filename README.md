@@ -1,7 +1,7 @@
 ### Content of the repo:
--PDF Presentation of "ingenious" project made for ETH DAM 2024: 
--EIP-1155-IPP proposed new functionalities for IP & Patent NFTs.
--Hackathon created website for example purposes: HTML+CSS+JS code.
+- PDF Presentation of "ingenious" project made for ETH DAM 2024.
+- EIP-1155-IPP proposed new functionalities for IP & Patent NFTs.
+- Hackathon created website for example purposes: HTML+CSS+JS code.
 
 ### Description
 The scientific community in 3rd world countries, mainly in Africa and LATAM, face huge problems finding and connecting investors interested in scientific research.
