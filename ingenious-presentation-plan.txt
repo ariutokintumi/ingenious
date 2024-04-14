@@ -21,7 +21,7 @@ As a consecuence, there is also obstacles protecting the IP and/or Patenting the
 PAGINA 3: THE SOLUTION
 Concepto: El texto arriba y abajo los 2 objetos como opciones, con 2 titulos, entendiendo que lo de la izquierda puede dar más rendimiento aparentemente.
 
-Under MIT Licence we have built this full functional first IP & Pantents NFT Marketplace, using our own EIP-1155 variation designed by the DeSci community for the DeSci community, focused on: fraction selling and profit distribution or any tokenized IP and Patent.
+Under MIT Licence we have built this IP & Pantents NFT Marketplace, using our own EIP-1155 variation designed by the DeSci community for the DeSci community, focused on: fraction selling and profit distribution or any tokenized IP and Patent.
 
 Fund Opportunities              Invest in Patents
 
