@@ -1,0 +1,51 @@
+EIP-1155-IPP: Token Standard for Intellectual Property & Patents
+
+Abstract
+This EIP extends the ERC-1155 multi-token standard to support the unique needs of intellectual property (IP) and patent tokenization. It introduces enhanced metadata structures and new contract functionalities designed for fractional ownership, profit distribution, and DAO-based management of tokenized patents. The proposal includes mechanisms for mandatory transfer fees, adjustable creator fees, and governance capabilities essential for decentralized IP management.
+
+Motivation
+The tokenization of intellectual property, particularly patents, presents an opportunity to democratize access to patent-related investments and innovations. However, the existing token standards do not cater to the specific needs of managing IP rights, such as enforcing creator royalties, handling complex metadata, and supporting decentralized decision-making processes. EIP-1155-IPP aims to fill this gap, fostering a more accessible, transparent, and efficient market for intellectual property.
+
+Specification
+Metadata Extensions
+Each token must have a URI pointing to a JSON file that contains the following metadata fields in addition to the standard ERC-1155 metadata:
+
+Title: The official title of the patent.
+Technical Field: Field of technology or science the patent pertains to.
+Background: Context and background information addressing the problem solved by the patent.
+Brief Description of Drawings: A concise description of any diagrams or illustrations included in the patent documentation.
+Detailed Description of the Invention: Comprehensive technical details of the invention, including its components, functionality, and potential applications.
+References: List of documents and prior arts referenced in the patent.
+Methods: Description of the methods or processes used in the invention.
+
+Smart Contract Functions:
+Fee Management
+Mandatory Transfer Fee: A fixed minimum fee (e.g., 0.1 ETH) is required for each token transfer, unless superseded by a higher creator fee.
+Creator Fee: A default creator fee of 1% (configurable per token) of the transaction amount is enforced on transfers. This fee is directed to the creator’s address.
+
+Modified Transfer Functions
+safeTransferFrom and safeBatchTransferFrom must include logic to:
+Check and deduct the mandatory transfer fee and creator fee.
+Reject transfers that do not meet the fee requirements.
+
+Governance Features
+Voting Rights: Token holders are granted voting rights proportional to their token holdings, enabling them to participate in decisions such as licensing or modifications to the patent.
+Profit Distribution: Mechanisms for automatic distribution of profits derived from the IP (e.g., licensing fees) to token holders.
+DAO Functions: Allow for collective decision-making processes regarding the management, enforcement, and potential sale or licensing of the patent.
+
+Rationale
+The introduction of specific metadata fields addresses the need for detailed information that is pertinent to patents, enhancing the usability and compliance of these tokens. The financial mechanisms, such as mandatory transfer fees and creator fees, ensure fair compensation for creators and maintain the economic viability of IP tokenization. The governance model empowers token holders and aligns their interests with the long-term value and utility of the intellectual property.
+
+Backward Compatibility
+EIP-1155-IPP is fully compatible with the existing ERC-1155 standard but extends its functionalities to suit IP and patent management. Contracts implementing this standard will still adhere to the core ERC-1155 functions and can coexist with other ERC-1155 tokens on the same contract.
+
+Reference Implementation
+Check: https://github.com/ariutokintumi/ingenious/blob/main/EIP-1155-IPP/EIP-1155-IPP_updates.sol
+
+Security Considerations
+The contract must handle overflow conditions when calculating fees.
+Proper access controls should be implemented to prevent unauthorized modification of the metadata.
+Consider potential legal implications and compliance requirements across different jurisdictions.
+
+Conclusion
+EIP-1155-IPP extends the ERC-1155 framework to meet the specialized needs of the IP and patent sectors in the blockchain environment, promoting greater accessibility, transparency, and efficiency in the management and commercialization of patents.
