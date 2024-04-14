@@ -23,10 +23,10 @@ Scientists Income Sources: Mint, Resell, Portion Selling, Profit Distribution.
 4. Profit Auto-Distribution.
 
 ### What are our next steps?
--Propose the EIP-1155-IPP to the DeSci Community for discussion.
--Audit the resulting code by experts.
--Find proyects interested in get into the platform.
--Enjoy an Easy-to-Use DeSci Marketplace.
+- Propose the EIP-1155-IPP to the DeSci Community for discussion.
+- Audit the resulting code by experts.
+- Find proyects interested in get into the platform.
+- Enjoy an Easy-to-Use DeSci Marketplace.
 
 **Presentation PDF:** https://github.com/ariutokintumi/ingenious/blob/main/ingenious-presentation.pdf
 
